@@ -2,6 +2,7 @@
 ## Published link
 - The app has been published in amazon app store
 - https://www.amazon.com/gp/product/B0G4JSRPBT
+- Drive Url: https://drive.google.com/file/d/1FQm2XCTvmthsgtFa-ZGb4EEdtp8yAUSR/view?usp=sharing
 ## Descritpion of App
 - In this project 2 mobiles are included
 - One is say yours, second is say your mom
